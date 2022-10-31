@@ -9,6 +9,6 @@
   "author": "Ardhirahmaan",
   "license": "ISC",
   "dependencies": {
-    "validator": "^13.5.2"
+    "validator": "^13.7.0"
   }
 }
